@@ -14,7 +14,7 @@ O objetivo do projeto é permitir que o usuário organize suas finanças com **a
 
  
 
-Este projeto foi criado como um **projeto pessoal para uma gincana**, com foco em inclusão, inovação social e uso consciente de tecnologia.
+Este projeto foi criado com foco em inclusão, inovação social e uso consciente de tecnologia.
 
  
 
@@ -143,3 +143,8 @@ Sugestões e melhorias são bem-vindas, especialmente relacionadas a acessibilid
 ## 📄 Licença
 
 Projeto desenvolvido para fins educacionais.
+
+https://tactile-money-guide.lovable.app
+
+<img width="1342" height="677" alt="image" src="https://github.com/user-attachments/assets/89bcc0e0-dda5-4c64-acf7-eaafd413d3e2" />
+
